@@ -1,8 +1,6 @@
-# Markdown-Note
+# Markdown-Note-Awesome Zhihu
 
-# Awesome Zhihu
-
-##知乎专栏
+## 知乎专栏
 
 1. [Kaggle机器学习之模型融合（stacking）心得](https://zhuanlan.zhihu.com/p/26890738)
 
@@ -58,11 +56,11 @@
 
 27. [python数据分析实例：共享单车租用影响因素探索](https://zhuanlan.zhihu.com/p/31064519?from_voters_page=true)
 
-##知乎问答
+## 知乎问答
 
-##知乎链接
+## 知乎链接
 
-##知乎daily
+## 知乎daily
 
 1. [列车时刻表是如何设计出来的？](http://daily.zhihu.com/story/9703443)
 
@@ -78,7 +76,7 @@
 
 7. [请回答 2008：一切共同记忆以奥运开始，以奥运结束](http://daily.zhihu.com/story/9692528)
 
-##知乎江湖
+## 知乎江湖
 
 1. [刘富利](https://www.zhihu.com/people/Fuli-Liu-80/activities)
 
