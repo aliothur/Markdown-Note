@@ -56,6 +56,11 @@
 
 27. [python数据分析实例：共享单车租用影响因素探索](https://zhuanlan.zhihu.com/p/31064519?from_voters_page=true)
 
+28. [【搭建属于你的科研平台】(一)基于flask的服务器端算法框架搭建](https://zhuanlan.zhihu.com/p/103785196)
+
+29. [互联网公司做硬件太多坑](https://zhuanlan.zhihu.com/p/37965370?utm_source=wechat_timeline)
+
+
 ## 知乎daily
 
 1. [列车时刻表是如何设计出来的？](http://daily.zhihu.com/story/9703443)
@@ -255,6 +260,15 @@
 83. [滴滴打车滴米系统的算法？](https://www.zhihu.com/question/29953467)
 
 84. [有哪些比较高级的数据可视化案例?](https://www.zhihu.com/question/264411796/answer/315323109)
+
+85. [如何在家高效地写毕业/科研论文，有哪些技巧？](https://www.zhihu.com/question/370282099/answer/1022761739)
+
+86. [工业界中NLP(自然语言处理)算法工程师的核心竞争力是什么？](https://www.zhihu.com/question/296661606/answer/1048388903)
+
+87. [如何下载twitter中别人分享的视频以及直播？](https://www.zhihu.com/question/60515960)
+
+88. [如何用你所在的领域专业知识证明人类的本质是「套娃」？](https://www.zhihu.com/question/360405601/answer/1094747872)
+
 
 ## 知乎链接
 
