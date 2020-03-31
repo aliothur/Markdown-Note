@@ -62,6 +62,8 @@
 
 30. [那些比剧情还好看的片头设计（英美剧篇）](https://zhuanlan.zhihu.com/p/97165132)
 
+31. [读阿里巴巴中台战略笔记](https://zhuanlan.zhihu.com/p/30340662)
+
 
 ## 知乎daily
 
