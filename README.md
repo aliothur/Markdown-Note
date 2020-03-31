@@ -60,6 +60,8 @@
 
 29. [互联网公司做硬件太多坑](https://zhuanlan.zhihu.com/p/37965370?utm_source=wechat_timeline)
 
+30. [那些比剧情还好看的片头设计（英美剧篇）](https://zhuanlan.zhihu.com/p/97165132)
+
 
 ## 知乎daily
 
